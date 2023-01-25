@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Rodel's github stats](https://github-readme-stats.vercel.app/api?username=ledorsapmalat)
+![Rodel's github stats](https://github-readme-stats.vercel.app/api?username=rodel-talampas)
 
 <!--
 **rodel-talampas/rodel-talampas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
